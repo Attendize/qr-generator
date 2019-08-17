@@ -1,0 +1,8 @@
+{
+    "require": {
+        "jeroendesloovere/vcard": "^1.7",
+        "aferrandini/phpqrcode": "^1.0",
+        "behat/transliterator": "^1.2",
+        "endroid/qr-code": "^3.5"
+    }
+}
